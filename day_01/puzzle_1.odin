@@ -60,5 +60,5 @@ main :: proc() {
 		if curr_number == 0 do zero_count += 1
 	}
 
-	fmt.printfln("Result: %i", zero_count)
+	fmt.printfln("Solution 1: %i", zero_count)
 }

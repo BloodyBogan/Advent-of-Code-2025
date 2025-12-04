@@ -69,5 +69,5 @@ main :: proc() {
 		}
 	}
 
-	fmt.printfln("Result: %i", zero_count)
+	fmt.printfln("Solution 2: %i", zero_count)
 }
